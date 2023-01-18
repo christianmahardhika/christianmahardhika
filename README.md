@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianmahardhika
 - 👀 I’m interested in AI, Automation, Education
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on Open Source AI Projects, Automation Projects
 - 📫 How to reach me christian.mahardhika@gmail.com
 
